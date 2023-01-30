@@ -1,10 +1,12 @@
+Today is Monday
+
 What if Power Platform?
 A low-code platform to perform various operations.
 a) Power BI
 b) Power Apps
 c) Power Automate
 d) Power Pages
-e) Virtual Agent
+e) Virtual Agent: Chotboat creation
 
 What exactly Power BI does?
 Create reports and dashboards from data.
