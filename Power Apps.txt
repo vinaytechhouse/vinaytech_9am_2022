@@ -1,0 +1,71 @@
+What if Power Platform?
+A low-code platform to perform various operations.
+a) Power BI
+b) Power Apps
+c) Power Automate
+d) Power Pages
+e) Virtual Agent
+
+What exactly Power BI does?
+Create reports and dashboards from data.
+
+What exactly Power Apps does?
+A low-code component to create apps [mobile and tab friendly] easily.
+
+Why do we require Power Apps along with Power BI?
+a) Many companies using Power Platform, in that situation Power BI + Power Apps combination is required
+b) Power BI reports you want to embed in Power apps app level along with other content
+c) Want to provide user interaction in the app and based on that report information is required.
+
+What is required?
+Cloud URL and account 
+make.powerapps.com, vinaytech_1912@vinaytechhouse.com, vinaytech@2022
+
+
+a)Power BI Report Embedding in Power Apps
+
+b) Create a form where user will enter data and the data stored in the respective storage [OneDrive excel file storage]
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+https://app.powerbi.com/reportEmbed?reportId=0baf7582-192e-457e-a556-ff6daa9561e0&autoAuth=true&ctid=e2aa1f92-8ae9-48c0-8aa8-894fb201ce24
+
+--Link used in .net, java, python, php, Power apps etc. application...that process is called as embedding
+
+<iframe title="Vinaytech First Demo Report on 20-12-2022" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0baf7582-192e-457e-a556-ff6daa9561e0&autoAuth=true&ctid=e2aa1f92-8ae9-48c0-8aa8-894fb201ce24" frameborder="0" allowFullScreen="true"></iframe>
+--Used in html files
+
+
+
+
+
+
+
+
+
+
+
+
+a) User will get a link and he can see
+b) User can see the app in Power Apps -app level
+
+
+
+Download Power Apps from play store / any store...connect using the below credentials
+vinaytech_2301@vinaytechhouse.com
+vinaytech@2023
+
+Look at the app created now
+
+
+
+
+
+
+
+
+
+
+
